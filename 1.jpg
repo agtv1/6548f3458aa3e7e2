@@ -1,1 +1,15 @@
-{"domains":["wxwweb.info","u.sebao.info"]}
+{
+  "apiUrls": [
+    "http://u.sebao.info/",
+    "http://wxwweb.info/"
+  ],
+  "videoUrls": [
+    "http://v.sebao.info/",
+    "http://v.wxwweb.info/"
+  ],
+  "backGithubUrls": [
+    "https://github.com/agtv1/6548f3458aa3e7e2/blob/master/1.jpg",
+    "https://github.com/agtv1/6548f3458aa3e7e2/blob/master/1.dat"
+  ],
+  "updateUrl": "http://u.sebao.info/"
+}
